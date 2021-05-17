@@ -1,5 +1,4 @@
-
-public class MathMethods extends Conditionals {
+public class MathMethods{
 	
 	public static int add(int a,int b) {
 		return a+b;
